@@ -1,5 +1,6 @@
 # Cinematic-Web-Experience
 A visually immersive web project that blends cinematic storytelling with smooth scrolling animations and dynamic UI transitions. Built using HTML, CSS, JavaScript, GSAP, and Locomotive Scroll, this project showcases how design, animation, and interactivity can come together to create a seamless user experience.
+
 🧠 About the Project
 This website is inspired by the dramatic tone and storytelling of Death Note.
 It’s designed as a scroll-based narrative experience, where each section unfolds with smooth transitions, layered visuals, and cinematic typography.
